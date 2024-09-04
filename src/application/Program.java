@@ -1,4 +1,4 @@
-package appilcation;
+package application;
 
 import entities.Rectangle;
 
